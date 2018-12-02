@@ -1,1 +1,2 @@
 arpeggio>=1.9
+profilehooks>=1.10
